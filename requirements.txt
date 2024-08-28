@@ -2,4 +2,4 @@ Flask
 FPDF
 Gunicorn
 matplotlib
-
+requests
