@@ -1,9 +1,5 @@
 Flask
 FPDF
-matplotlib
-requests
-sqlite3
-smtplib
-email
+
 
 
